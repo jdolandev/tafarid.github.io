@@ -3,7 +3,6 @@ body{
 	color: white;
 	background-image: url("fun_image_01.jpg");
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 }
 
 #below_pic{
