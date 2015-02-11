@@ -1,5 +1,5 @@
 body{
 	text-align: center;
 	color: pink;
-	background-image: "fun_image_01.jpg"
+	background-image: url("fun_image_01.jpg");
 }
