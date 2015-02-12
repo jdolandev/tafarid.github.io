@@ -1,31 +1,10 @@
 body{
 	text-align: center;
 	color: white;
-	background-image: url("fun_image_01.jpg");
-	background-image: size "100%";
+	background: url("fun_image_01.jpg") no-repeat;
+	background: size "100%";
 }
 
 #below_pic{
 	background-color: grey;
-}
-
-
-/* The code below is referenced from:
-www.css-tricks.com*/
-fun_image_01.jpg{
-	/*Set rules to fill the background*/
-
-	min-height: 100%;
-	min-width: 1024px;
-
-	/*This sets the scaling parameters*/
-	width: 100%;
-	height: auto;
-
-	/*sets up positioning*/
-
-	position: fixed;
-	top: 0;
-	left: 0;
-
 }
