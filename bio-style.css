@@ -5,8 +5,9 @@ body{
 }
 
 #Bio{
-	border-color: black;
+	border: dashed;
 	text-align: center;
+	border-color: white;
 }
 
 .bold{
@@ -23,4 +24,9 @@ body{
 
 h4{
 	color: blue;
+}
+
+#end{
+	border: thick;
+	border-color: white;
 }
