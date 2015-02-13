@@ -25,7 +25,7 @@ h4{
 }
 
 #end{
-	border: thick;
+	border: solid;
 	border-color: white;
 	width: 25%;
 	margin: 0 auto;
