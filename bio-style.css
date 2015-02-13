@@ -9,3 +9,10 @@ body{
 	text-align: center;
 }
 
+.bold{
+	font-weight: bold;
+}
+
+.tilt{
+	font-style: italic;
+}
