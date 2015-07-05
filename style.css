@@ -23,8 +23,10 @@ body{
 }
 
 img {
-    max-width: 20%;
-    height: auto;
+    /*max-width: 20%;
+    height: auto;*/
+		max-height: 20%;
+		width: auto;
 }
 
 .whiter{
