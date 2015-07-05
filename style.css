@@ -24,10 +24,9 @@ body{
 
 img {
     max-width: 20%;
-		max-height: 20%;
-    /*height: auto;*/
+		height: auto;
 }
 
-.whiter{
+#small{
 	color: white;
 }
