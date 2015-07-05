@@ -6,8 +6,10 @@ body{
 }
 
 #below_pic{
+
+	/*Got rid of border.
 	border-color: grey;
-	border-style: groove;
+	border-style: groove; */
 	width: 38%;
 	margin: 0 auto;
 }
