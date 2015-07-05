@@ -23,10 +23,9 @@ body{
 }
 
 img {
-    /*max-width: 20%;
-    height: auto;*/
+    max-width: 20%;
 		max-height: 20%;
-		width: auto;
+    /*height: auto;*/
 }
 
 .whiter{
