@@ -22,6 +22,11 @@ body{
 	width: 30%;
 }
 
-h5{
+img {
+    max-width: 40%;
+    height: auto;
+}
+
+.whiter{
 	color: white;
 }
