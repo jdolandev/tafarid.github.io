@@ -6,7 +6,8 @@ body{
 }
 
 #below_pic{
-	background-color: grey;
+	border-color: grey;
+	border-style: groove;
 	width: 38%;
 	margin: 0 auto;
 }
